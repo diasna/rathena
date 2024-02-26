@@ -352,3 +352,5 @@ niflheim,209,180,5	shop	Chef Assistant#nif	83,581:-1
 //= 1.9b Added items to Chivas Regal
 //= 1.9c Slight update for Rachel shop: Tool Dealer -> Fruit Gardener [L0ne_W0lf]
 //============================================================
+
+int_land02,75,79,4	shop	Tool Dealer#int_land    	83,1750:-1,611:-1,501:-1,502:-1,506:-1,645:-1,601:-1,602:-1

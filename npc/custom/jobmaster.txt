@@ -518,3 +518,4 @@ OnInit:
 	end;
 }
 
+int_land02,63,82,5	duplicate(Job Master)	Job Master#1	123
